@@ -1,6 +1,6 @@
 # ASH.github.io
 
-title: Introduce Myself
+Title: Introduce Myself
 Dankook University Student
 Student ID: 32177384
 Name Initial: ASH
