@@ -5,4 +5,4 @@ Dankook University Student
 
 Student ID: 32177384
 
-Name Initial: ASH
+Name: 안상현
